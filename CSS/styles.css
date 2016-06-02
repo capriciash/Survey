@@ -1,6 +1,4 @@
-<select class="form-control" id="question">
-  <option>Coffee</option>
-  <option>Tea</option>
-  <option>Kombucha</option>
-  <option>Water</option>
-</select>
+.btn {
+  background-color: #5DADE2;
+  color: #17202A;
+}
